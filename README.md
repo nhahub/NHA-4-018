@@ -20,5 +20,4 @@ Collect, clean, and process data from two races of the 2025 season.
 
 Analyse the performance of two drivers: Max Verstappen and Lando Norris.
 
-Extract Key Performance Indicators (KPIs) and compare driver performance using data analysis techniques.t
-<img width="2628" height="465" alt="image" src="https://github.com/user-attachments/assets/0cbf1e6b-9853-4003-958d-c5751323f57b" />
+Extract Key Performance Indicators (KPIs) and compare driver performance using data analysis techniques.
