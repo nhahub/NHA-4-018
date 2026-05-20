@@ -2,13 +2,13 @@ Summary:
 
 Formula 1 is one of the most data‑intensive sports, relying on big data and real‑time analytics.
 Each car generates thousands of data points per race, including:
-Speed
-Tyre 
-Performance
-Fuel consumption
+Speed,
+Tyre, 
+Performance,
+Fuel consumption and
 The championship consists of multiple sessions:
-Free practice
-Qualifying
+Free practice,
+Qualifying and
 Main race
 
 During each session, massive amounts of data are collected and analysed to support team strategy and improve performance.
